@@ -1,0 +1,16 @@
+{
+  "clockInfo": [
+    {
+      "userId": "Celest",
+      "day": "20-9-2021",
+      "userClock": "Clock-in: 10:46:42",
+      "id": 1
+    },
+    {
+      "userId": "Celest",
+      "day": "20-9-2021",
+      "userClock": "Clock-out: 10:46:42",
+      "id": 2
+    }
+  ]
+}

@@ -9,6 +9,7 @@
   "author": "Pluralsight",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.5.4",
+    "rewire": "^5.0.0"
   }
 }
